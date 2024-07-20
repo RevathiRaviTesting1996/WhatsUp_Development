@@ -1,0 +1,8 @@
+This is WhatsUp Code : 
+
+Author : Revathi Ravi
+
+	1. Profile page code
+	2. Chat screen code
+	3. Last seen code
+Attachments (Image, Audio, Video) Code
